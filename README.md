@@ -1,9 +1,8 @@
-# EPICODUS STUDENT PROJECT
-## JavaScript | Angular JS
+## JavaScript | Angular2 JS
 
-#### Template in Angular2, August 9, 2016
+#### Template in Angular2, August 10, 2016
 
-#### By _**Maldon Meehan, Epicodus**_
+#### By _**Matt Wilkin**_
 
 ## Description
 Angular Template....
@@ -11,12 +10,16 @@ Angular Template....
 ## Setup/Installation Requirements
 
 * Clone this repository
+
 * In the command-line run:
 ```
 $ npm install
 ```
 ```
 $ bower install
+```
+```
+$ bower init
 ```
 ```
 $ apm install atom-typescript
@@ -39,7 +42,7 @@ If you run into any issues or have questions, ideas, or concerns, please feel fr
 ## Technologies Used
 
 * JavaScript
-* jQuery
+* Angular2
 * Bower
 * NPM
 * GitHub API
