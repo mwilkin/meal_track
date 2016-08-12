@@ -7,6 +7,30 @@
 ## Description
 Angular Template....
 
+## Objectives
+
+| Objective        | Complete           |
+| ------------- |:-------------:|
+| Objective     | -- |
+| Objective     | -- |
+| Objective     | -- |
+| Objective     | -- |
+| Objective     | -- |
+
+As a user…
+
+## Component Tree
+| Component        | Function           | Parent  |
+| ------------- |:-------------:| -----:|
+| AppComponent | Hold Data | -- |
+| KegListComponent | Display keg name, brand, price, and alcohol content and filter kegs by criteria | AppComponent |
+| NewKegComponent | Makes form to create new keg | KegListComponent |
+| EditKegComponent | Allows us to edit a keg's properties | KegListComponent |
+| EditKegComponent | Allows us to edit a keg's properties | KegListComponent |
+| KegComponent | Displays a single keg | KegListComponent |
+| Keg | model class definition | not a component |
+
+
 ## Setup/Installation Requirements
 
 * Clone this repository
@@ -44,12 +68,11 @@ If you run into any issues or have questions, ideas, or concerns, please feel fr
 * JavaScript
 * Angular2
 * Bower
-* NPM
-* GitHub API
+* Node Packet Manager
 
 ### License
 
 *MIT License*
 <a href="https://opensource.org/licenses/MIT">https://opensource.org/licenses/MIT</a>
 
-Copyright (c) 2016 **_Epicodus_**
+Copyright (c) 2016 **_Matt Wilkin_**
